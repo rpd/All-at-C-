@@ -1,7 +1,7 @@
  /* sphere.c A C program to calculate the volume of a sphere V=4/3 πr3*/
 
    #include <stdio.h>                      /* Include header file for printf. */
-   #define PI 3.141592654                  /* Define a constant. */
+   #define PI 3.141592654                   /* Define a constant.π */
 
    float sphere(int radius);               /* Function prototype. Tells compiler to expect to find a function named sphere */
 
