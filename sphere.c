@@ -1,4 +1,4 @@
-   /* sphere.c A pC program to calculate the volume of a sphere */
+   /* sphere.c A C program to calculate the volume of a sphere V=4/3 r3*/
 
    #include <stdio.h>                /* Include header file for printf. */
    #define PI 3.141592654            /* Define a constant. */
